@@ -25,5 +25,7 @@ jobs:
           git commit -m ":sparkles: update JSON file"
       - name: PUSH
         uses: ad-m/github-push-action@master
+      - name: UpadteCDNCache
+        run: curl https://purge.jsdelivr.net/gh/yzyyz1387/hamgam/res.json
         with:
           github_token: ${{secrets.GH_TOKEN}}
