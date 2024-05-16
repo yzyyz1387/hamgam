@@ -82,3 +82,75 @@
 - url: 不明白.jpg
 - dec: 我不明白
 - contributor: BD8CWG
+### ARMSTRONG
+- url: ARMSTRONG.jpg
+- dec: 麒麟臂！
+- contributor: BD8CWG
+### KZZ or KKZ
+- url: KZZorKKZ.jpg
+- dec: 哥们你谁？
+- contributor: BD8CWG
+### 大功率
+- url: 大功率.jpg
+- dec: 超强功率，千瓦上星
+- contributor: BD8CWG
+### 不服来打我
+- url: 不服来打我.jpg
+- dec: 企图挑起外交事件
+- contributor: BD8CWG
+### 群主不在
+- url: 群主不在.jpg
+- dec: 群主不在，我来发个图
+- contributor: BD8CCU
+### 捅捅你的
+- url: 捅捅你的.jpg
+- dec: 捅捅你的卫星
+- contributor: BD8CWG
+### 无管车车
+- url: 无管车车.gif
+- dec: 无管车车来咯
+- contributor: BD8CWG
+### A上短波B上龟
+- url: 无管后面追.jpg
+- dec: 无管跟在后面追
+- contributor: BD8CWG
+### 下一个就是你家八木
+- url: 下一个就是你家八木.jpg
+- dec: 接着笑，下一个就是你家八木
+- contributor: BD8CWG
+### 下一个就是你家手台
+- url: 下一个就是你家手台.jpg
+- dec: 接着笑，下一个就是你家手台
+- contributor: BD8CWG
+### 下一个就是你家铁塔
+- url: 下一个就是你家铁塔.jpg
+- dec: 接着笑，下一个就是你家铁塔
+- contributor: BD8CWG
+### 相机对准机场
+- url: 相机对准机场.jpg
+- dec: 相机对准机场，人生走进牢房
+- contributor: BD8CWG
+### 与极化搏斗
+- url: 与极化搏斗.jpg
+- dec: 与极化搏斗
+- contributor: BD8CWG
+### 怎么回事呢
+- url: 怎么回事呢.jpg
+- dec: 怎么会是呢？
+- contributor: BD8CWG
+### 怎么事儿
+- url: 怎么事儿.jpg
+- dec: 汤姆怒学蓝宝书
+- contributor: BD8CWG
+### 注意射频安全
+- url: 注意射频安全.jpg
+- dec: 注意射频安全
+- contributor: BD8CWG
+### 抓住就沙头
+- url: 抓住就沙头.jpg
+- dec: 窃密必被抓，抓住就沙头
+- contributor: BD8CWG
+### 你tm现在在哪儿
+- url: 你tm现在在哪儿.jpg
+- dec: 到底在哪儿捏
+- contributor: BD8CWG
