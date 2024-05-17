@@ -162,3 +162,11 @@
 - url: 你是个什么鸟.jpg
 - dec: 企鹅（即答）
 - contributor: BD8CWG
+### 好消息
+- url: 好消息.jpg
+- dec: 好消息，闲置无线电台现在可以换盆啦，让你的闲置不再闲置
+- contributor: BD8CWG
+### 离谱
+- url: 离谱.jpg
+- dec: 🍐🎵
+- contributor: BD8CWG
