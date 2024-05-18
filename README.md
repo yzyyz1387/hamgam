@@ -186,3 +186,7 @@
 - url: 逸一时误一世.jpg
 - dec: 114514
 - contributor: BD8CWG
+### 江湖老火腿
+- url: 江湖老火腿.jpg
+- dec: 专治各种疑难杂症
+- contributor: BD8CWG
