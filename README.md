@@ -178,3 +178,7 @@
 - url: 打斐济.jpg
 - dec: .
 - contributor: BD8CWG
+### 你信号好到爆炸
+- url: 你信号好到爆炸.jpg
+- dec: 收你信号59甚至60
+- contributor: BD8CWG
