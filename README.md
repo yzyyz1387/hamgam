@@ -174,3 +174,7 @@
 - url: hkd.jpg
 - dec: 11111真送吗？
 - contributor: BD8CWG
+### 打斐济
+- url: 打斐济.jpg
+- dec: .
+- contributor: BD8CWG
