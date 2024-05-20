@@ -206,3 +206,7 @@
 - url: 信号59.jpg
 - dec: 信号59，呼号没记住
 - contributor: BD8CWG
+### 许三多
+- url: xsd.jpg
+- dec: 不抛弃，也不放弃，这就是钢七连
+- contributor: BI3BO
