@@ -210,3 +210,7 @@
 - url: xsd.jpg
 - dec: 不抛弃，也不放弃，这就是钢七连
 - contributor: BI3BO
+### 嘻嘻，不嘻嘻
+- url: xxbxx.jpg
+- dec: .
+- contributor: BD8CWG
