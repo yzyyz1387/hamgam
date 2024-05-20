@@ -194,8 +194,8 @@
 - url: 天线发育示意图.jpg
 - dec: .
 - contributor: BD8CWG
-### 有无管，终止交易
-- url: 有无管终止交易.jpg
+### 有无管，终止发射
+- url: 有无管终止发射.jpg
 - dec: 无管来查电台了，快跑！
 - contributor: BD8CWG
 ### 小孩子不要学
