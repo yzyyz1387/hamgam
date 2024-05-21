@@ -278,3 +278,7 @@
 - url: yagi-M.jpg
 - dec: 抽象起来了
 - contributor: BI4PBV
+### Can Can Need New New
+- url: CanCanNeedNewNew.jpg
+- dec: .
+- contributor: BD8CWG
