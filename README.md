@@ -258,3 +258,7 @@
 - url: 手持卫星站.jpg
 - dec: .
 - contributor: BG5CZD
+### sb二次元
+- url: sb二次元.jpg
+- dec: 你们这帮砂婢二次元
+- contributor: BG2FFJ
