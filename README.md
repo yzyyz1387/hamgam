@@ -274,3 +274,7 @@
 - url: 把史给我.jpg
 - dec: .
 - contributor: BD8CWG
+### yagi-M
+- url: yagi-M.jpg
+- dec: 抽象起来了
+- contributor: BI4PBV
