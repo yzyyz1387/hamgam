@@ -286,3 +286,11 @@
 - url: 我是没完.jpg
 - dec: 谁说我是南通我和谁没完
 - contributor: BD8CWG
+### 那我就放心了
+- url: 那我就放心了.jpg
+- dec: 助力每一个梦想
+- contributor: BH3PTS
+### 50W
+- url: 50W.jpg
+- dec: 即刻拨打：12339
+- contributor: BG5CZD
