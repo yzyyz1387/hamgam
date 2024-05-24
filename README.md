@@ -302,3 +302,7 @@
 - url: 尝尝咸淡.jpg
 - dec: 前情提要：在群里问BD8CWG新疆的土是什么土
 - contributor: BD8CWG
+### 纸模草
+- url: 纸模草.jpg
+- dec: “我死了就烧这个给我”
+- contributor: BD8CWG
