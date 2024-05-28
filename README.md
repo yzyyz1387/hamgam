@@ -314,3 +314,7 @@
 - url: 红酒洋酒.jpg
 - dec: 手机要你三更死，谁敢留人到五更
 - contributor: BD7QIW
+### 老二掠夺者
+- url: 老二掠夺者.jpg
+- dec: 把你老二剪了
+- contributor: BD8CWG
