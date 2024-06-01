@@ -341,7 +341,7 @@
 ### 电台遗传学
 - url: 电台遗传学.jpg
 - dec: 宝峰UV5RHⓧ泉盛UVK5→宝盛K5RH
-- BI1PUL
+- contributor: BI1PUL
 ### 导师之怒
 - url: 导师之怒.jpg
 - dec: 混球
