@@ -1,6 +1,9 @@
 
 import json
 import re
+from datetime import datetime
+from pathlib import Path
+
 def json_to_md(json_path, output_path):
     def process_value(value, indent=0):
         if isinstance(value, dict):
@@ -47,7 +50,20 @@ def md_to_json(md_path, output_path):
                 elif value.isdigit():
                     value = int(value)
                 json_data[current_key][key] = value
-    with open(output_path, 'w', encoding='utf-8') as json_file:
+
+    output_path = Path(output_path)
+    if output_path.exists():
+        with output_path.open('r', encoding='utf-8') as json_file:
+            existing_data = json.load(json_file)
+        for key in json_data.keys():
+            if key in existing_data and 'update' not in existing_data[key]:
+                existing_data[key]['update'] = datetime.now().strftime('%Y-%m-%d')
+            elif key not in existing_data:
+                existing_data[key] = json_data[key]
+                existing_data[key]['update'] = datetime.now().strftime('%Y-%m-%d')
+        json_data = existing_data
+
+    with output_path.open('w', encoding='utf-8') as json_file:
         json.dump(json_data, json_file, ensure_ascii=False, indent=4)
 
 
