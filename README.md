@@ -394,3 +394,7 @@
 - url: 收不到兄弟.jpg
 - dec: .
 - contributor: BG5JAX
+### 星王
+- url: 星王.jpg
+- dec: 天下星王，匹夫有责
+- contributor: BG5JAX
