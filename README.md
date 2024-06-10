@@ -398,3 +398,23 @@
 - url: 星王.jpg
 - dec: 天下星王，匹夫有责
 - contributor: BG5JAX
+### 你染上K了？
+- url: 你染上K了？.jpg
+- dec: 暴风吸入便宜有好玩的K5
+- contributor: BG2GFC
+### 殊途同归
+- url: 殊途同归.jpg
+- dec: 家里人甚至以为我在吸毒
+- contributor: BG2GFC
+### HAM修炼大法
+- url: HAM修炼大法.jpg
+- dec: 无线电从入门到入土
+- contributor: BG2GFC
+### 初识卫星
+- url: 初识卫星.jpg
+- dec: “不会英语，教教我”
+- contributor: BG2GFC
+### 你会做什么
+- url: 你会做什么.jpg
+- dec: 搞笑目的，不具有针对性，如有不妥联系站长删除
+- contributor: BG2GFC,BG2LTC
