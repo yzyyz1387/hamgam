@@ -418,3 +418,7 @@
 - url: 你会做什么.jpg
 - dec: 搞笑目的，不具有针对性，如有不妥联系站长删除
 - contributor: BG2GFC,BG2LTC
+### 机场大巴
+- url: 机场大巴.jpg
+- dec: 我没坐过机巴
+- contributor: BY6020SWL
