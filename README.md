@@ -1,13 +1,16 @@
 ## 贡献指南
 ### Fork 本项目
 点击右上角的 Fork 按钮，将本项目复制到你的账号下
+![fork.png](doc/fork.png)
 ### 更改
 #### 本地开发(推荐)
+使用VSC等编辑器本地开发
 ```bash
 git clone https://github.com/yzyyz1387/hamgam.git
 ```
 #### 在线编辑
 通过网页编辑
+![edit.png](doc/edit.png)
 
 ### 具体操作
 1. 在pic_res.md文件中追加：
@@ -37,5 +40,5 @@ git push
 
 ### 提交 PR
 进入github，找到你的仓库, 应该会出先如图所示的按钮：
-![pr_guide.png](pr_guide.png)
+![pr_guide.png](doc/pr_guide.png)
 点击之，填写标题和描述，然后提交即可
