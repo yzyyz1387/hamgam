@@ -494,7 +494,3 @@
 - url: 新手能打星吗.jpg
 - dec: 不能
 - contributor: BY6020SWL
-- ### 暑假去哪儿
-- url: 暑假去哪儿.jpg
-- dec: .
-- contributor: BI3BO
