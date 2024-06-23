@@ -68,4 +68,4 @@ def md_to_json(md_path, output_path):
 
 
 if __name__ == "__main__":
-    md_to_json('README.md', 'pic_res.json')
+    md_to_json('pic_res.md', 'pic_res.json')
