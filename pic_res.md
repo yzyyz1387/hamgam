@@ -438,10 +438,6 @@
 - url: 星漫画.jpg
 - dec: .
 - contributor: BG2GFC
-### 给新人讲业余无线电的你
-- url: 给新人讲业余无线电的你.jpg
-- dec: .
-- contributor: BG2GFC
 ### 基极融化
 - url: 基极融化.jpg
 - dec: 你也不想群友在你的基极上...
@@ -498,3 +494,35 @@
 - url: 暑假去哪儿.jpg
 - dec: .
 - contributor: BI3BO
+### COS
+- url: COS.jpg
+- dec: .
+- contributor: BI1MHK
+### QBG之死
+- url: QBG之死.jpg
+- dec: .
+- contributor: BD8DMS
+### QBQ
+- url: QBQ.jpg
+- dec: QBQ:家长不让玩
+- contributor: BA7OGJ
+### 为什么要拿奖学金
+- url: 为什么要拿奖学金.jpg
+- dec: 论学生HAM努力学习的原因
+- contributor: BG2LTC
+### 我不是黄推
+- url: 我不是黄推.jpg
+- dec: 我本来就不是啊！？
+- contributor: BG5BEE
+### 自信
+- url: 自信.jpg
+- dec: 🤔我说这个就是自信
+- contributor: 群星
+### 蓝天
+- url: 蓝天.jpg
+- dec: 某嘴臭人代表蓝天救援队在卫星群大放厥词
+- contributor: 群星
+### 黑凤梨
+- url: 黑凤梨.jpg
+- dec: ❤
+- contributor: BG7QIW
