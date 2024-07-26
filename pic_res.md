@@ -546,3 +546,63 @@
 - url: 想吹.jpg
 - dec: 前因请搜索“你吹过”
 - contributor: BD8CWG
+### SBUA0L
+- url: SBUA0L.jpg
+- dec: JK2XXKの怒
+- contributor: BG5BTK
+### 12306
+- url: 12306.jpg
+- dec: 查询小火车网站
+- contributor: BG2LTC
+### 扭扭捏捏
+- url: 扭扭捏捏.jpg
+- dec: QIW和DMS怎么老是扭扭捏捏的
+- contributor: BD8CWG
+### flexcloud
+- url: flexcloud.jpg
+- dec: .
+- contributor: 群星
+### 谨防诈骗
+- url: 谨防诈骗.jpg
+- dec: 警惕群友刷诈骗
+- contributor: 群星
+### 鱼的记忆
+- url: 鱼的记忆.jpg
+- dec: 我喊了没来着【挠头】
+- contributor: BG2LTC
+### 你压根不懂
+- url: 你压根不懂.jpg
+- dec: 你压根不懂GP
+- contributor: 群星
+### 甘肃HAM
+- url: 甘肃HAM.jpg
+- dec: 三个甘肃HAM凑不出一个九区
+- contributor: BD8DMS
+### CWG收
+- url: CWG收.jpg
+- dec: 亲爱的BD8CWG, 当你看到这封信...
+- contributor: BD8CWG
+### 星奴
+- url: 星奴.jpg
+- dec: 我是这个，不是内个
+- contributor: BG5BEE
+### QBG的烦恼
+- url: QBG的烦恼.jpg
+- dec: 有，没有钱
+- contributor: BD8CWG
+### 昂贵的称呼
+- url: 昂贵的称呼.jpg
+- dec: 你好DX10
+- contributor: BD8CWG
+### 我超盒
+- url: 我超盒.jpg
+- dec: 唐佳瑞，这是物理群
+- contributor: BD8CWG
+### BA0AN
+- url: BA0AN.jpg
+- dec: 6
+- contributor: BD8CWG
+### 群主不在2.0
+- url: 群主不在2.0.jpg
+- dec: 没事，群主不在
+- contributor: BD8CWG
