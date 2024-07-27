@@ -606,7 +606,7 @@
 - url: 群主不在2.0.jpg
 - dec: 没事，群主不在
 - contributor: BD8CWG
-- ### 无聊死我了
+### 无聊死我了
 - url: 无聊死我了.jpg
 - dec: 无聊死我了
 - contributor: BI7AWD
