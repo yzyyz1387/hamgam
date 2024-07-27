@@ -610,3 +610,7 @@
 - url: 无聊死我了.jpg
 - dec: 无聊死我了
 - contributor: BI7AWD
+### 你这个主题不是眼瞎吗
+- url: 你这个主题不是眼瞎吗.jpg
+- dec: 为什么眼瞎
+- contributor: BI7AWD
