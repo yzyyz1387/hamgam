@@ -610,7 +610,11 @@
 - url: 无聊死我了.jpg
 - dec: 无聊死我了
 - contributor: BI7AWD
-### 你这个主题不是眼瞎吗
-- url: 你这个主题不是眼瞎吗.jpg
-- dec: 为什么眼瞎
+### 就你小子干扰天地通联是吧
+- url: 就你小子干扰天地通联是吧.jpg
+- dec: 宇航员:我不是要通俄罗斯学校来着吗
+- contributor: BI7AWD
+### 我想和CSS天地通联，它却不开，我很失望！
+- url: 失望.jpg
+- dec: 刚才CSS的过境通联名单我看了
 - contributor: BI7AWD
