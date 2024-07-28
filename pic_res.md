@@ -618,3 +618,19 @@
 - url: 失望.jpg
 - dec: 刚才CSS的过境通联名单我看了
 - contributor: BI7AWD
+### 纯爱战士
+- url: 纯爱战士.jpg
+- dec: 《我为她考的FCC》
+- contributor: BI7AWD
+### 我挂我自己
+- url: 我挂我自己.jpg
+- dec: 站长:我说过吗？
+- contributor: BI7AWD
+### css4
+- url: css4.jpg
+- dec: 如图所示
+- contributor: BI7AWD
+### 不如两台K5
+- url: 不如两台K5.jpg
+- dec: 拳打牙医所，脚踢爱可慕
+- contributor: BI7AWD
