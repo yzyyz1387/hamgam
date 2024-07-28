@@ -634,7 +634,19 @@
 - url: 不如两台K5.jpg
 - dec: 拳打牙医所，脚踢爱可慕
 - contributor: BI7AWD
-### 这是我？我不承认5
+### 这是我？我不承认
 - url: 这是我？我不承认.jpg
 - dec: 5区变态狂：我肯定没说过！我是被盗号了！
+- contributor: BI7AWD
+### 一看就是BG5连打盗了BTK的号
+- url: 一看就是BG5连打盗了BTK的号.jpg
+- dec: 书接上回：《5区变态狂：我肯定没说过！我是被盗号了！》
+- contributor: BI7AWD
+### 我都不敢想小btk长大了加了卫星群会怎么样
+- url: 我都不敢想小btk长大了加了卫星群会怎么样.jpg
+- dec: 群友对小BTK的期望
+- contributor: BI7AWD
+### 卫星群变得越来越BT了
+- url: 卫星群变得越来越BT了.jpg
+- dec: 群友都是大BT
 - contributor: BI7AWD
