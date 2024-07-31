@@ -550,7 +550,7 @@
 - url: SBUA0L.jpg
 - dec: JK2XXKの怒
 - contributor: BG5BTK
-### 12306
+### 火车12306
 - url: 12306.jpg
 - dec: 查询小火车网站
 - contributor: BG2LTC
