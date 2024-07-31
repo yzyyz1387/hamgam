@@ -20,6 +20,9 @@ git clone https://github.com/yzyyz1387/hamgam.git
 - dec: 图片描述
 - contributor: 贡献者
 ```
+
+**请不要将数字开头作为图片标题**
+
 2. 在`img`文件夹中上传图片
    建议压缩图片，以减少加载时间，可使用[tinypng](https://tinypng.com/)在线压缩
 
