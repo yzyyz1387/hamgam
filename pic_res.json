@@ -821,12 +821,6 @@
         "contributor": "BG5BTK",
         "update": "2024-07-26"
     },
-    "12306": {
-        "url": "12306.jpg",
-        "dec": "查询小火车网站",
-        "contributor": "BG2LTC",
-        "update": "2024-07-26"
-    },
     "扭扭捏捏": {
         "url": "扭扭捏捏.jpg",
         "dec": "QIW和DMS怎么老是扭扭捏捏的",
@@ -963,6 +957,12 @@
         "url": "禁止醉酒使用.jpg",
         "dec": ".",
         "contributor": "群星",
+        "update": "2024-07-31"
+    },
+    "火车12306": {
+        "url": "12306.jpg",
+        "dec": "查询小火车网站",
+        "contributor": "BG2LTC",
         "update": "2024-07-31"
     }
 }
