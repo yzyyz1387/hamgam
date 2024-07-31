@@ -33,11 +33,13 @@ def md_to_json(md_path, output_path):
     with open(md_path, 'r', encoding='utf-8') as md_file:
         lines = md_file.readlines()
     json_data = {}
+    md_keys = set()
     current_key = None
     for line in lines:
         line = line.strip()
         if line.startswith('###'):
             current_key = line[4:]
+            md_keys.add(current_key)
             json_data[current_key] = {}
         elif line.startswith('-'):
             result = process_line(line)
@@ -66,6 +68,19 @@ def md_to_json(md_path, output_path):
     with output_path.open('w', encoding='utf-8') as json_file:
         json.dump(json_data, json_file, ensure_ascii=False, indent=4)
 
+    return md_keys
+
+def remove_unused_keys(json_path, md_keys):
+    with open(json_path, 'r', encoding='utf-8') as json_file:
+        json_data = json.load(json_file)
+
+    keys_to_remove = [key for key in json_data if key not in md_keys]
+    for key in keys_to_remove:
+        del json_data[key]
+
+    with open(json_path, 'w', encoding='utf-8') as json_file:
+        json.dump(json_data, json_file, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
-    md_to_json('pic_res.md', 'pic_res.json')
+    md_keys = md_to_json('pic_res.md', 'pic_res.json')
+    remove_unused_keys('pic_res.json', md_keys)

@@ -638,3 +638,11 @@
 - url: 这是我？我不承认.jpg
 - dec: 5区变态狂：我肯定没说过！我是被盗号了！
 - contributor: BI7AWD
+### 受害者
+- url: 受害者.jpg
+- dec: 这是约翰，他的老婆查出了他电台的价格
+- contributor: BH6AXU
+### 禁止醉酒使用
+- url: 禁止醉酒使用.jpg
+- dec: .
+- contributor: 群星
