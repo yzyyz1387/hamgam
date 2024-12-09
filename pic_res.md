@@ -646,3 +646,7 @@
 - url: 禁止醉酒使用.jpg
 - dec: .
 - contributor: 群星
+### 脚台
+- url: 脚台.jpg
+- dec: 手台的另一个名字是什么
+- contributor: BD8CWG
