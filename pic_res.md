@@ -650,3 +650,7 @@
 - url: 脚台.jpg
 - dec: 手台的另一个名字是什么
 - contributor: BD8CWG
+### 图片标题
+- url: 贼尼玛.jpg
+- dec: 大秦雅音，唐韵风华
+- contributor: BI9AAZ
