@@ -650,3 +650,7 @@
 - url: 卫星群变得越来越BT了.jpg
 - dec: 群友都是大BT
 - contributor: BI7AWD
+### 直言不讳
+- url: 听力不好，录多了？.jpg
+- dec: 演都不演的
+- contributor: BI7AWD
