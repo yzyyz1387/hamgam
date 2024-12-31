@@ -653,12 +653,6 @@
         "contributor": "BG2GFC",
         "update": "2024-06-10"
     },
-    "给新人讲业余无线电的你": {
-        "url": "给新人讲业余无线电的你.jpg",
-        "dec": ".",
-        "contributor": "BG2GFC",
-        "update": "2024-06-10"
-    },
     "基极融化": {
         "url": "基极融化.jpg",
         "dec": "你也不想群友在你的基极上...",
@@ -827,12 +821,6 @@
         "contributor": "BG5BTK",
         "update": "2024-07-26"
     },
-    "12306": {
-        "url": "12306.jpg",
-        "dec": "查询小火车网站",
-        "contributor": "BG2LTC",
-        "update": "2024-07-26"
-    },
     "扭扭捏捏": {
         "url": "扭扭捏捏.jpg",
         "dec": "QIW和DMS怎么老是扭扭捏捏的",
@@ -910,5 +898,83 @@
         "dec": "没事，群主不在",
         "contributor": "BD8CWG",
         "update": "2024-07-26"
+    },
+    "无聊死我了": {
+        "url": "无聊死我了.jpg",
+        "dec": "无聊死我了",
+        "contributor": "BI7AWD",
+        "update": "2024-07-27"
+    },
+    "就你小子干扰天地通联是吧": {
+        "url": "就你小子干扰天地通联是吧.jpg",
+        "dec": "宇航员:我不是要通俄罗斯学校来着吗",
+        "contributor": "BI7AWD",
+        "update": "2024-07-27"
+    },
+    "我想和CSS天地通联，它却不开，我很失望！": {
+        "url": "失望.jpg",
+        "dec": "刚才CSS的过境通联名单我看了",
+        "contributor": "BI7AWD",
+        "update": "2024-07-27"
+    },
+    "纯爱战士": {
+        "url": "纯爱战士.jpg",
+        "dec": "《我为她考的FCC》",
+        "contributor": "BI7AWD",
+        "update": "2024-07-28"
+    },
+    "我挂我自己": {
+        "url": "我挂我自己.jpg",
+        "dec": "站长:我说过吗？",
+        "contributor": "BI7AWD",
+        "update": "2024-07-28"
+    },
+    "css4": {
+        "url": "css4.jpg",
+        "dec": "如图所示",
+        "contributor": "BI7AWD",
+        "update": "2024-07-28"
+    },
+    "不如两台K5": {
+        "url": "不如两台K5.jpg",
+        "dec": "拳打牙医所，脚踢爱可慕",
+        "contributor": "BI7AWD",
+        "update": "2024-07-28"
+    },
+    "这是我？我不承认5": {
+        "url": "这是我？我不承认.jpg",
+        "dec": "5区变态狂：我肯定没说过！我是被盗号了！",
+        "contributor": "BI7AWD",
+        "update": "2024-07-28"
+    },
+    "受害者": {
+        "url": "受害者.jpg",
+        "dec": "这是约翰，他的老婆查出了他电台的价格",
+        "contributor": "BH6AXU",
+        "update": "2024-07-31"
+    },
+    "禁止醉酒使用": {
+        "url": "禁止醉酒使用.jpg",
+        "dec": ".",
+        "contributor": "群星",
+        "update": "2024-07-31"
+    },
+    "火车12306": {
+        "url": "12306.jpg",
+        "dec": "查询小火车网站",
+        "contributor": "BG2LTC",
+        "update": "2024-07-31"
+    },
+    "脚台": {
+        "url": "脚台.jpg",
+        "dec": "手台的另一个名字是什么",
+        "contributor": "BD8CWG",
+        "update": "2024-12-09"
+    },
+    "贼尼玛": {
+        "url": "贼尼玛.jpg",
+        "dec": "大秦雅音，唐韵风华",
+        "contributor": "BI9AAZ",
+        "update": "2024-12-11"
     }
 }

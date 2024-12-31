@@ -550,7 +550,7 @@
 - url: SBUA0L.jpg
 - dec: JK2XXKの怒
 - contributor: BG5BTK
-### 12306
+### 火车12306
 - url: 12306.jpg
 - dec: 查询小火车网站
 - contributor: BG2LTC
@@ -634,6 +634,22 @@
 - url: 不如两台K5.jpg
 - dec: 拳打牙医所，脚踢爱可慕
 - contributor: BI7AWD
+### 受害者
+- url: 受害者.jpg
+- dec: 这是约翰，他的老婆查出了他电台的价格
+- contributor: BH6AXU
+### 禁止醉酒使用
+- url: 禁止醉酒使用.jpg
+- dec: .
+- contributor: 群星
+### 脚台
+- url: 脚台.jpg
+- dec: 手台的另一个名字是什么
+- contributor: BD8CWG
+### 贼尼玛
+- url: 贼尼玛.jpg
+- dec: 大秦雅音，唐韵风华
+- contributor: BI9AAZ
 ### 这是我？我不承认
 - url: 这是我？我不承认.jpg
 - dec: 5区变态狂：我肯定没说过！我是被盗号了！
