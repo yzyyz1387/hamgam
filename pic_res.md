@@ -670,13 +670,14 @@
 - url: 听力不好，录多了？.jpg
 - dec: 演都不演的
 - contributor: BI7AWD
-- ### 拉端馈哈哈
+
+### 拉端馈哈哈
 - url: ldz.png
 - dec: 菲比啾比拉端馈
 - contributor: BH8GEF
 
 ### 拉天线哈哈
-- url: Itx.png
+- url: ltx.png
 - dec: 菲比啾比拉天线
 - contributor: BH8GEF
 
@@ -695,19 +696,9 @@
 - dec: 一天说些什么
 - contributor: BH8GEF
 
-### 冲冲国奖
-- url: 冲冲国奖.jpg
-- dec: 为了无线电冲国奖
-- contributor: BH8GEF
-
 ### 放弃操作证
 - url: 放弃.jpg
 - dec: 你确定放弃原操作证
-- contributor: BH8GEF
-
-### 禁止醉酒使用无线电
-- url: 喝酒.png
-- dec: 醉酒不上台，上台不喝酒
 - contributor: BH8GEF
 
 ### 格子，与你分享
