@@ -1000,5 +1000,59 @@
         "dec": "演都不演的",
         "contributor": "BI7AWD",
         "update": "2024-12-31"
+    },
+    "拉天线哈哈": {
+        "url": "Itx.png",
+        "dec": "菲比啾比拉天线",
+        "contributor": "BH8GEF",
+        "update": "2026-02-27"
+    },
+    "注意边界": {
+        "url": "dls1.png",
+        "dec": "无线电是有边界的",
+        "contributor": "BH8GEF",
+        "update": "2026-02-27"
+    },
+    "没有后悔药": {
+        "url": "dls2.png",
+        "dec": "你确定了？",
+        "contributor": "BH8GEF",
+        "update": "2026-02-27"
+    },
+    "你在说啥子": {
+        "url": "dls3.png",
+        "dec": "一天说些什么",
+        "contributor": "BH8GEF",
+        "update": "2026-02-27"
+    },
+    "冲冲国奖": {
+        "url": "冲冲国奖.jpg",
+        "dec": "为了无线电冲国奖",
+        "contributor": "BH8GEF",
+        "update": "2026-02-27"
+    },
+    "放弃操作证": {
+        "url": "放弃.jpg",
+        "dec": "你确定放弃原操作证",
+        "contributor": "BH8GEF",
+        "update": "2026-02-27"
+    },
+    "禁止醉酒使用无线电": {
+        "url": "喝酒.png",
+        "dec": "醉酒不上台，上台不喝酒",
+        "contributor": "BH8GEF",
+        "update": "2026-02-27"
+    },
+    "格子，与你分享": {
+        "url": "格子.png",
+        "dec": "纳西达分享格子",
+        "contributor": "BH8GEF",
+        "update": "2026-02-27"
+    },
+    "建议你重考": {
+        "url": "重新考.png",
+        "dec": "重新考吧，废了",
+        "contributor": "BH8GEF",
+        "update": "2026-02-27"
     }
 }
